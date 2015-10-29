@@ -1,0 +1,5 @@
+googlemaps==2.3
+pysqlite==2.8.1
+PyYAML==3.11
+pyzipcode==0.4
+requests==2.6.0
